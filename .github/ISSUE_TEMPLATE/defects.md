@@ -10,5 +10,7 @@ assignees: ''
 This is a Defect template:
 
 User Story?
+
 Version:
+
 Main Gitlab Issue #
